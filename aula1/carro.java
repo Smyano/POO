@@ -1,4 +1,4 @@
-public public class Carro {
+public class Carro {
     
     int ano;
     String cor;
@@ -51,6 +51,4 @@ public public class Carro {
     }
 
 }
- carro {
-    
-}
+
